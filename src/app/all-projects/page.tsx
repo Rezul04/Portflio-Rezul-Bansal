@@ -15,10 +15,10 @@ import Image, { StaticImageData } from "next/image";
 import { motion } from "framer-motion";
 import { LinkPreview } from "@/components/ui/link-preview";
 import { Footer } from "@/sections/Footer";
-import notaktoImg from "@/assets/all-projects/notakto.png";
-import GlobegatherImg from "@/assets/project-images/codecraft.png";
-import EnigmaPassImg from "@/assets/project-images/metaverse.png";
-import PortfoliaImg from "@/assets/project-images/zephyr.png";
+import notaktoImg from "@/assets/all-projects/notaktoImg.png";
+import GlobegatherImg from "@/assets/project-images/GlobegatherImg.png";
+import EnigmaPassImg from "@/assets/project-images/EnigmaPassImg.png";
+import PortfoliaImg from "@/assets/project-images/PortfoliaImg.png";
 
 
 

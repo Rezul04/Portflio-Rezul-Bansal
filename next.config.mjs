@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
-  basePath: "/your-repository", 
+  basePath: "/Portflio-Rezul-Bansal", 
   images: {
     unoptimized: true, 
   },
