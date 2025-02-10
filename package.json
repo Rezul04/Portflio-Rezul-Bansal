@@ -1,6 +1,7 @@
 {
   "name": "portfolio-site-2",
   "version": "0.1.0",
+  "homepage": "https://rezul04.github.io/Portflio-Rezul-Bansal/",
   "private": true,
   "scripts": {
     "dev": "next dev",
