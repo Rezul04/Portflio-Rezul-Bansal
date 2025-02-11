@@ -1,12 +1,12 @@
-import memojiAvatar1 from "@/assets/images/memoji-avatar-1.png";
+import memojiAvatar1 from "../assets/images/memoji-avatar-1.png";
 import memojiAvatar2 from "@/assets/images/memoji-avatar-2.png";
-import memojiAvatar3 from "@/assets/images/memoji-avatar-3.png";
-import memojiAvatar4 from "@/assets/images/memoji-avatar-4.png";
-import memojiAvatar5 from "@/assets/images/memoji-avatar-5.png";
+import memojiAvatar3 from "../assets/images/memoji-avatar-3.png";
+import memojiAvatar4 from "../assets/images/memoji-avatar-4.png";
+import memojiAvatar5 from "../assets/images/memoji-avatar-5.png";
 import Image from "next/image";
-import SectionHeader from "@/components/SectionHeader/SectionHeader";
-import grainImage from "@/assets/images/grain.jpg";
-import Card from "@/components/Card/Card";
+import SectionHeader from "../components/SectionHeader/SectionHeader";
+import grainImage from "../assets/images/grain.jpg";
+import Card from "../components/Card/Card";
 
 const testimonials = [
   {

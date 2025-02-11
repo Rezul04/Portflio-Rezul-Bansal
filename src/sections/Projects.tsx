@@ -4,10 +4,10 @@ import CheckIcon from "../assets/icons/check-circle.svg";
 import ArrowUpRight from "../assets/icons/arrow-up-right.svg";
 import grainImage from "../assets/images/grain.jpg"; 
 import { motion } from "framer-motion";
-import notaktoImg from "@/assets/all-projects/notaktoImg.png";
-import GlobegatherImg from "@/assets/project-images/GlobegatherImg.png";
-import EnigmaPassImg from "@/assets/project-images/EnigmaPassImg.png";
-import PortfoliaImg from "@/assets/project-images/PortfoliaImg.png";
+import notaktoImg from "../assets/all-projects/notaktoImg.png";
+import GlobegatherImg from "../assets/project-images/GlobegatherImg.png";
+import EnigmaPassImg from "../assets/project-images/EnigmaPassImg.png";
+import PortfoliaImg from "../assets/project-images/PortfoliaImg.png";
 
 const portfolioProjects = [
   {

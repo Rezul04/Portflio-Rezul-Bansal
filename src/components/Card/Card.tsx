@@ -16,7 +16,7 @@ const Card = ({
       <div
         className="absolute inset-0 -z-10 opacity-5"
         style={{
-          backgroundImage: `url(${grainImage.src})`,
+          backgroundImage: `url(${grainImage})`,
         }}
       ></div>
       {children}
